@@ -1,0 +1,72 @@
+baseurl = "https://iron3oxi.de"
+title = "iron3oxide"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "iron3oxide"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Jason Hottelet"
+info = "software engineer"
+description = "iron3oxide's personal website"
+keywords = "blog,developer,personal"
+#avatarurl = "images/avatar.jpg"
+gravatar = "hello@iron3oxi.de"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+since = 2023
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[params.umami]
+siteID = "01ef3918-422d-4356-95a2-1b0f0973d67f"
+serverURL = "analytics.eu.umami.is"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/iron3oxide/"
+
+[[params.social]]
+name = "Mail"
+icon = "fa fa-envelope fa-2x"
+weight = 1
+url = "mailto:hello@iron3oxi.de"
+
+# Menu links
+[[menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+[[menu.main]]
+name = "About"
+weight = 3
+url = "about/"
