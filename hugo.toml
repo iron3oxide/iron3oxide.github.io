@@ -24,7 +24,7 @@ favicon_32 = "/img/code-dots.png"
 favicon_16 = "/img/code-dots.png"
 
 since = 2023
-commit = "https://github.com/iron3oxide/iron3oxide.github.io/tree/"
+# commit = "https://github.com/iron3oxide/iron3oxide.github.io/tree/"
 
 enableTwemoji = true
 
