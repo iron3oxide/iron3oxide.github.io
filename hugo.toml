@@ -6,7 +6,7 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-disqusShortname = "iron3oxide"
+# disqusShortname = "iron3oxide"
 
 [markup.highlight]
 style = "github-dark"
