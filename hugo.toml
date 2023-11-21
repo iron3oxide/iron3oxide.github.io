@@ -19,9 +19,9 @@ keywords = "blog,developer,personal"
 #avatarurl = "images/avatar.jpg"
 gravatar = "hello@iron3oxi.de"
 
-faviconSVG = "/img/favicon.svg"
-favicon_32 = "/img/favicon-32x32.png"
-favicon_16 = "/img/favicon-16x16.png"
+faviconSVG = "/img/code-dots.svg"
+favicon_32 = "/img/code-dots.png"
+favicon_16 = "/img/code-dots.png"
 
 since = 2023
 
