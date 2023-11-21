@@ -43,7 +43,7 @@ author = "authors"
 
 [params.umami]
 siteID = "01ef3918-422d-4356-95a2-1b0f0973d67f"
-serverURL = "analytics.eu.umami.is"
+serverURL = "analytics.iron3oxi.de"
 
 # Social links
 [[params.social]]
