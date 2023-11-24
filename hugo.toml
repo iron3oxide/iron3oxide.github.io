@@ -43,7 +43,7 @@ author = "authors"
 
 [params.umami]
 siteID = "01ef3918-422d-4356-95a2-1b0f0973d67f"
-scriptURL = "analytics.eu.umami.is/script.js"
+scriptURL = "https://analytics.eu.umami.is/script.js"
 
 # Social links
 [[params.social]]
